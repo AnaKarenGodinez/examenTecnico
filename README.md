@@ -1,4 +1,6 @@
 # examenTecnico
+Este es un proyecto de prueba técnica que consiste en una aplicación web para gestionar usuarios y colaboradores. El backend está implementado con Node.js y MySQL, mientras que el frontend está desarrollado con Flutter.
+
 # Aplicación Web
 El sistema debe tener un modo de autentificación por el cual el usuario pueda registrarse
 e iniciar sesión en caso de que cuente con un registro, además de poder actualizar su
@@ -45,7 +47,7 @@ En este menú, tendrá la posibilidad de escribir y resguardar en base de datos 
 * Número de Seguro Social
 * Fecha Inicio Laboral
 * Tipo de Contrato
-* Depastamento
+* Departamento
 * Puesto
 * Salario Diario
 * Salario
@@ -54,7 +56,7 @@ En este menú, tendrá la posibilidad de escribir y resguardar en base de datos 
 
 #### Empleados
 Esta vista deberán aparecer todos los colaboradores creados en la vista anterior con las siguientes funcionalidades:
-  * Funcionalidad de hacer una búsqueda de la información mediante lafecha en que se creó el colaborador (Para hacer un ejemplo se recomienda contar más empleados generados de manera ficticia), por CURP, por RFC, Nombre
+  * Funcionalidad de hacer una búsqueda de la información mediante la fecha en que se creó el colaborador (Para hacer un ejemplo se recomienda contar más empleados generados de manera ficticia), por CURP, por RFC, Nombre
   * En el listado de colaboradores, deberá contar con la opción de editar o eliminar el empleado (de manera lógica)
 
 #### Servicios
