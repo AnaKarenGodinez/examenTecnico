@@ -1,4 +1,6 @@
 # examenTecnico
+Este es un proyecto de prueba técnica que consiste en una aplicación web para gestionar usuarios y colaboradores. El backend está implementado con Node.js y MySQL, mientras que el frontend está desarrollado con Flutter.
+
 # Aplicación Web
 El sistema debe tener un modo de autentificación por el cual el usuario pueda registrarse
 e iniciar sesión en caso de que cuente con un registro, además de poder actualizar su
